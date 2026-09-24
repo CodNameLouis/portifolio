@@ -1,0 +1,193 @@
+{
+  "projects": [
+    {
+      "id": "stive_maps",
+      "name": "Stive Maps",
+      "client": "Stive Maps",
+      "summary": "Extensão da memória do policial: registra qualificações e ocorrências, filtra dados e compartilha com a equipe.",
+      "roles": [
+        "PO",
+        "Desenvolvimento",
+        "QA",
+        "Deploy"
+      ],
+      "tags": [
+        "Geolocalização",
+        "Filtros",
+        "Compartilhamento seguro"
+      ],
+      "categories": [
+        "maps"
+      ],
+      "featured": false,
+      "rating": 4.8,
+      "ratingCount": 37,
+      "thumbColor": "navy",
+      "icon": "assets/images/projects/stive_maps_icon.png",
+      "screenshot": "assets/images/projects/stive_maps_screen.png",
+      "url": "https://apps.apple.com/br/app/stive-maps/id6499552890"
+    },
+    {
+      "id": "rodovias_transportes",
+      "name": "Rodovias Transportes",
+      "client": "Strawti",
+      "summary": "Gestão de viagens para motoristas e passageiros com rotas em tempo real, chat com a administração e aceite rápido de corridas.",
+      "roles": [
+        "PO",
+        "QA",
+        "Deploy"
+      ],
+      "tags": [
+        "Google Maps",
+        "Tempo real",
+        "Chat"
+      ],
+      "categories": [
+        "maps"
+      ],
+      "featured": false,
+      "rating": 5.0,
+      "ratingCount": 2,
+      "thumbColor": "mustard",
+      "icon": "assets/images/projects/rodovias_transportes_icon.png",
+      "screenshot": "assets/images/projects/rodovias_transportes_screen.png",
+      "url": "https://apps.apple.com/br/app/rodovias-transportes/id6741437815"
+    },
+    {
+      "id": "flyphotos",
+      "name": "FlyPhotos",
+      "client": "Strawti",
+      "summary": "Impressão de fotos e álbuns de até 24 páginas com prévia, geração automática de PDF e pagamento integrado.",
+      "roles": [
+        "PO",
+        "Desenvolvimento",
+        "QA",
+        "Deploy"
+      ],
+      "tags": [
+        "Pix",
+        "Cielo",
+        "Cartão",
+        "Push"
+      ],
+      "categories": [
+        "payments"
+      ],
+      "featured": false,
+      "rating": 5.0,
+      "ratingCount": 1,
+      "thumbColor": "terracotta",
+      "icon": "assets/images/projects/flyphotos_icon.png",
+      "screenshot": "assets/images/projects/flyphotos_screen.png",
+      "url": "https://apps.apple.com/br/app/flyphotos/id6740005200"
+    },
+    {
+      "id": "brasilia_basquete",
+      "name": "Brasília Basquete",
+      "client": "Spoten",
+      "summary": "App oficial do clube: notícias, loja de produtos oficiais, venda de ingressos e rede de benefícios para torcedores.",
+      "roles": [
+        "Desenvolvimento",
+        "QA",
+        "Deploy"
+      ],
+      "tags": [
+        "Ingressos",
+        "Loja",
+        "Benefícios"
+      ],
+      "categories": [
+        "payments"
+      ],
+      "featured": false,
+      "rating": 3.4,
+      "ratingCount": 16,
+      "thumbColor": "navy",
+      "icon": "assets/images/projects/brasilia_basquete_icon.png",
+      "screenshot": "assets/images/projects/brasilia_basquete_screen.png",
+      "url": "https://apps.apple.com/br/app/bras%C3%ADlia-basquete/id6443590099"
+    },
+    {
+      "id": "expertgov",
+      "name": "ExpertGov",
+      "client": "ForGov",
+      "summary": "Controle das contas públicas da prefeitura na palma da mão, para gestores municipais.",
+      "roles": [
+        "PO",
+        "Desenvolvimento",
+        "QA",
+        "Deploy"
+      ],
+      "tags": [
+        "Gestão pública",
+        "Dashboards",
+        "Finanças"
+      ],
+      "categories": [
+        "management"
+      ],
+      "featured": false,
+      "rating": 5.0,
+      "ratingCount": 2,
+      "thumbColor": "mustard",
+      "icon": "assets/images/projects/expertgov_icon.png",
+      "screenshot": "assets/images/projects/expertgov_screen.png",
+      "url": "https://apps.apple.com/br/app/expertgov/id1541074521"
+    },
+    {
+      "id": "pablife",
+      "name": "PabLife",
+      "client": "PAB Desenvolvimento",
+      "summary": "Rotina equilibrada unindo psicologia, nutrição e organização com ferramentas práticas e conteúdo profissional.",
+      "roles": [
+        "PO",
+        "Desenvolvimento",
+        "QA",
+        "Deploy"
+      ],
+      "tags": [
+        "Saúde",
+        "Conteúdo",
+        "Hábitos"
+      ],
+      "categories": [
+        "management"
+      ],
+      "featured": false,
+      "rating": 5.0,
+      "ratingCount": 4,
+      "thumbColor": "terracotta",
+      "icon": "assets/images/projects/pablife_icon.png",
+      "screenshot": "assets/images/projects/pablife_screen.png",
+      "url": "https://apps.apple.com/br/app/pablife-app/id6756442379"
+    },
+    {
+      "id": "casedoku",
+      "name": "Casedoku",
+      "client": "Lumily",
+      "summary": "Jogo autoral de dedução que une mistério de assassinato à lógica do Sudoku, com casos gerados proceduralmente e 100% offline.",
+      "roles": [
+        "Idealizador",
+        "PO",
+        "Desenvolvimento",
+        "QA",
+        "Deploy"
+      ],
+      "tags": [
+        "Jogo",
+        "Geração procedural",
+        "Offline"
+      ],
+      "categories": [
+        "games"
+      ],
+      "featured": true,
+      "rating": 3.7,
+      "ratingCount": 3,
+      "thumbColor": "navy",
+      "icon": "assets/images/projects/casedoku_icon.png",
+      "screenshot": "assets/images/projects/casedoku_screen.png",
+      "url": "https://apps.apple.com/br/app/casedoku-detetive-l%C3%B3gico/id6760269543"
+    }
+  ]
+}

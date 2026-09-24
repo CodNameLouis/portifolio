@@ -1,0 +1,84 @@
+{
+  "highlight": {
+    "title": "Flutter & Dart",
+    "subtitle": "iOS & Android · código nativo via Channels",
+    "level": "Especialista"
+  },
+  "groups": [
+    {
+      "label": "Estado",
+      "items": [
+        "BLoC / Cubit",
+        "GetX",
+        "MobX",
+        "Provider"
+      ]
+    },
+    {
+      "label": "Backend",
+      "items": [
+        "APIs REST",
+        "Firebase",
+        "Supabase"
+      ]
+    },
+    {
+      "label": "Pagamentos",
+      "items": [
+        "Stripe",
+        "Iugu",
+        "Asaas",
+        "PIX"
+      ]
+    },
+    {
+      "label": "Mapas",
+      "items": [
+        "Google Maps",
+        "Geolocalização",
+        "Check-in"
+      ]
+    },
+    {
+      "label": "Qualidade",
+      "items": [
+        "Testes unitários",
+        "Testes de widget",
+        "Testes de comportamento"
+      ]
+    },
+    {
+      "label": "CI/CD",
+      "items": [
+        "Fastlane",
+        "Codemagic",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "label": "Monitoramento",
+      "items": [
+        "Crashlytics",
+        "Analytics",
+        "Performance"
+      ]
+    },
+    {
+      "label": "Nativo",
+      "items": [
+        "Kotlin",
+        "Swift",
+        "Flutter Channels"
+      ]
+    },
+    {
+      "label": "Métodos",
+      "items": [
+        "Git",
+        "Scrum",
+        "Kanban",
+        "Code Review"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Vamos tirar seu app do papel?",
+  "subtitle": "Disponibilidade imediata · 100% remoto",
+  "links": [
+    {
+      "type": "email",
+      "label": "E-mail",
+      "value": "luan@afcinfotelecom.net",
+      "url": "mailto:luan@afcinfotelecom.net"
+    },
+    {
+      "type": "whatsapp",
+      "label": "WhatsApp",
+      "value": "+55 83 99366-5855",
+      "url": "https://wa.me/5583993665855"
+    },
+    {
+      "type": "linkedin",
+      "label": "LinkedIn",
+      "value": "in/luan-nunes-244977258",
+      "url": "https://linkedin.com/in/luan-nunes-244977258"
+    },
+    {
+      "type": "github",
+      "label": "GitHub",
+      "value": "CodNameLouis",
+      "url": "https://github.com/CodNameLouis"
+    }
+  ],
+  "resumeUrl": "https://luan.lumily.com.br/curriculo_luan_nunes.pdf"
+}

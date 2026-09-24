@@ -1,0 +1,27 @@
+{
+  "firstName": "Luan Nunes",
+  "lastName": "Caldeira",
+  "greeting": "Olá, eu sou",
+  "role": "Desenvolvedor Flutter Pleno/Sênior",
+  "bio": "Desenvolvedor Flutter Pleno/Sênior. Crio e evoluo apps mobile usados todos os dias por milhares de pessoas.",
+  "available": true,
+  "availabilityLabel": "Disponível agora",
+  "photo": "assets/images/profile.jpg",
+  "stats": [
+    {
+      "title": "4+ anos",
+      "subtitle": "com Flutter & Dart",
+      "emphasis": true
+    },
+    {
+      "title": "App Store & Google Play",
+      "subtitle": "publicação de ponta a ponta",
+      "emphasis": false
+    },
+    {
+      "title": "Campina Grande, PB",
+      "subtitle": "100% remoto",
+      "emphasis": false
+    }
+  ]
+}

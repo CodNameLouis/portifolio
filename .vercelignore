@@ -1,0 +1,15 @@
+/android
+/ios
+/lib
+/test
+/docs
+/web
+/assets
+/.dart_tool
+/.idea
+/build/app
+/build/ios
+/build/macos
+/build/linux
+/build/windows
+/build/native_assets

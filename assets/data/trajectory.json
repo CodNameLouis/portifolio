@@ -1,0 +1,38 @@
+{
+  "experiences": [
+    {
+      "period": "2014 — 2022",
+      "role": "Técnico de TI & Telecom",
+      "company": "AFC Informática",
+      "mode": "Freelancer",
+      "description": "Redes, infraestrutura e suporte direto ao cliente.",
+      "current": false
+    },
+    {
+      "period": "fev — mai 2022",
+      "role": "Desenvolvedor Flutter Júnior",
+      "company": "Strawti",
+      "mode": "Remoto",
+      "description": "Imersão com especialistas e features em produção.",
+      "current": false
+    },
+    {
+      "period": "mai 2022 — atual",
+      "role": "Flutter Pleno/Sênior & Gerente de Projetos",
+      "company": "Strawti",
+      "mode": "Remoto",
+      "description": "Arquitetura, testes, CI/CD e publicação nas lojas. Lidero um time de níveis diversos.",
+      "current": true
+    }
+  ],
+  "education": [
+    {
+      "course": "Flutter & Dart",
+      "detail": "Especialização online"
+    },
+    {
+      "course": "Fibra óptica, NR-35, NR-10",
+      "detail": "Atendimento (SENAI)"
+    }
+  ]
+}
