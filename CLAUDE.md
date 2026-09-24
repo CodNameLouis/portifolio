@@ -641,6 +641,11 @@ Histórico do comando, caso precise gerar outra (uma vez na vida do app):
 
 ### Repositório público — o que o `.gitignore` segura (24/09)
 
+**No ar em https://github.com/CodNameLouis/portifolio** (público, branch `main`). Primeiro commit em 24/09: 413 arquivos, 11,6 MB.
+
+- **O primeiro push falhou com `RPC failed; HTTP 400`.** Não é permissão nem tamanho de arquivo: é o `http.postBuffer` do git, que por padrão são 1 MB e não dá conta de um push de 11,6 MB por HTTPS. Resolvido com `git config http.postBuffer 524288000` e `git config http.version HTTP/1.1` (as duas já estão gravadas no `.git/config` local, então não volta a acontecer aqui).
+- **Conferir depois do push, pela API, não pela memória:** `curl -s -o /dev/null -w '%{http_code}' https://api.github.com/repos/CodNameLouis/portifolio/contents/android/key.properties` deve dar **404**. Mesma coisa para o `.jks`. Foi assim que confirmei que nenhuma credencial subiu.
+
 O repositório é público, então a regra é: **nada de credencial na árvore versionada.** O `.gitignore` da raiz mais os de `android/` e `ios/` cobrem, cada um com a regra que pega:
 
 | O que | Regra |
